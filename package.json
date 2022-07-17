@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sachin-Prasad-29/Meetings-Applications.git"
+    "url": "git+https://github.com/Ravindra27072001/Meetings-Applications.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sachin-Prasad-29/Meetings-Applications/issues"
+    "url": "https://github.com/Ravindra27072001/Meetings-Applications/issues"
   },
-  "homepage": "https://github.com/Sachin-Prasad-29/Meetings-Applications#readme",
+  "homepage": "https://github.com/Ravindra27072001/Meetings-Applications#readme",
   "dependencies": {
     "cpx": "^1.5.0",
     "font-awesome": "^4.7.0",
